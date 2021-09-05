@@ -1,4 +1,4 @@
-<h1>DSA BOOTCAMP ASSIGNMENT</h1>
+DSA BOOTCAMP ASSIGNMENT
 
 Q1. Write a program to Swap to two numbers.
 
